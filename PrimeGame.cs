@@ -10,7 +10,7 @@ namespace TestProject
         {
             Program p = new();
 
-            //Elements which have at-least two greater elements/
+            //This is just normal Game problem where both player are playing opimally
             p.solve(64, 96);
         }
         
