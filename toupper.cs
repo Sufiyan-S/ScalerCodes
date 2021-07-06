@@ -4,8 +4,7 @@ class Solution {
         {
             if (A[i] >= 'a' && A[i] <= 'z')
                 A[i] = (char)(A[i] - 32);
-        }
-        
+        }     
         return A;
     }
 }
