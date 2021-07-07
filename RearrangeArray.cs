@@ -6,7 +6,8 @@ using System.Collections.Generic;
 Example:
 
 Input : [1, 0]
-Return : [0, 1]*/
+Return : [0, 1]
+*/
 
 class Solution {
     public void arrange(List<int> A) {
