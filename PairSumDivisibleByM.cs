@@ -4,7 +4,8 @@ class Solution {
         
         int count = 0;
         int[] freq = new int[B];
-        for(int  i = 0; i < A.Count; i++){
+        for(int  i = 0; i < A.Count; i++)
+        {
            freq[A[i] % B]++;
         }
 
