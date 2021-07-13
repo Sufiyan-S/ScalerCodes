@@ -32,7 +32,7 @@ class Solution {
 
             if(A[mid] == B) 
                 return mid;
-            else if(mid < B)
+            else if(A[mid] < B)
                 start = mid + 1;
             else
                 end = mid - 1;
