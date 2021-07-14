@@ -1,4 +1,4 @@
 class Solution {
-    public int search(List<int> A, int B) {
+    public int search(List<int> A) {
     }
 }
