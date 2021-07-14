@@ -4,6 +4,7 @@ class Solution {
             return 0;
         if(A.Count == 1)
             return A[0];
+        
         for(int i = 0; i < A.Count; i ++)
         {
             if(i == 0 )
