@@ -1,6 +1,6 @@
 class Solution {
     public int findMinXor(List<int> A) {
-                A.Sort();
+        A.Sort();
         int x=0;
         int min =int.MaxValue;
         for(int i=0;i<A.Count-1;i++)
