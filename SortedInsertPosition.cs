@@ -3,7 +3,6 @@
 
 
 
-
 Sorted Insert Position
 Problem Description
 
