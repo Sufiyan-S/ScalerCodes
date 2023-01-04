@@ -1,4 +1,5 @@
 class Solution {
+    
     public int DeleteOne(List<int> A) {
         int n = A.Count;
         int []Prefix = new int[n + 2];
