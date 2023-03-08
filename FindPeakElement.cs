@@ -2,7 +2,6 @@ class Solution {
     
     
     
-    
     public int solve(List<int> A) {
         if(A.Count == 0)
             return 0;
