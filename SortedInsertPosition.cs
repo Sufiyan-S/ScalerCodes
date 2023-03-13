@@ -6,7 +6,6 @@ Problem Description
 
 
 
-
 Given a sorted array A of size N and a target value B, return the index (0-based indexing) if the target is found.
 If not, return the index where it would be if it were inserted in order.
 
