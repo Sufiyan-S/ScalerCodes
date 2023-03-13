@@ -24,13 +24,6 @@ Output 2:
 0
 */
 
-
-
-
-
-
-
-
 class Solution {
     public int searchInsert(List<int> A, int B) {
         int start  = 0, end = A.Count -1, mid;
