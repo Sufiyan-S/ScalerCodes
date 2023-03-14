@@ -3,7 +3,6 @@ Problem Description
 Reverse the bits of an 32 bit unsigned integer A.
 
 
-
 Output Format
 Return a single unsigned integer denoting the decimal value of reversed bits.
 
