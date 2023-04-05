@@ -13,6 +13,7 @@ namespace TestProject
         static void Main(string[] args)
         {
             Program p = new();
+            
 
             //This problem is to find out minimun switch required to turn on all the bulbs
             p.Bulbd(new List<int>() { 1, 2, 3, 4, 5 });
