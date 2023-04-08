@@ -20,7 +20,7 @@ class Solution {
             }
             divsor.Add(cnt);
         }
-        
+       
         return divsor;
     }
 }
