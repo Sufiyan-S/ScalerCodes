@@ -3,16 +3,7 @@ class Solution {
         int n = A.Count;
         int []Prefix = new int[n + 2];
         int []Suffix = new int[n + 2] ;
-     
         
-     
-        
-        
-    
-  
-    
-    
-    
         Prefix[1] = A[0];
         for (int i = 2; i <= n; i += 1)
         {
