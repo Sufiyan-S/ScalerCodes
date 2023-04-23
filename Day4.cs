@@ -12,7 +12,7 @@ namespace TestProject
 
             
             
-            //Print Smaller and Greater Element
+            //Print Smaller and Greer Element
             Console.WriteLine("Smaller ang Greater Element : " + p.SmallerAndGreaterElement(new List<int>() { 1, 4, 3 }));
 
             //Elements which have at-least two greater elements/
