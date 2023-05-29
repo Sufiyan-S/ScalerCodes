@@ -13,7 +13,6 @@ namespace TestProject
             
             
             
-            
             //Print Smaller and Greer Element
             Console.WriteLine("Smaller ang Greater Element : " + p.SmallerAndGreaterElement(new List<int>() { 1, 4, 3 }));
 
