@@ -9,7 +9,12 @@ namespace TestProject
         static void Main(string[] args)
         {
             Program p = new();
-          
+            
+            
+            
+            
+            
+            
             //Print Smaller and Greer Element
             Console.WriteLine("Smaller ang Greater Element : " + p.SmallerAndGreaterElement(new List<int>() { 1, 4, 3 }));
 
