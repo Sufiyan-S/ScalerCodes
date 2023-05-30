@@ -7,7 +7,6 @@ namespace TestProject
     
     
     
-    
     class Solution
     {
       //Find find Commonn GCD factor among A and B 
