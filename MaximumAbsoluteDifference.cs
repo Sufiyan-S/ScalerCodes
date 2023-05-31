@@ -7,7 +7,6 @@ class Solution {
         
         
         
-        
         int sum = int.MinValue, max1 = int.MinValue, max2 = int.MinValue, min1 = int.MaxValue, min2 = int.MaxValue;
         for (int i = 0; i < A.Count; i++)
         {
