@@ -25,7 +25,8 @@ namespace TestProject
         | which have at-least two greater elements than themselves.
         | NOTE: The result should have the order in which they are present in the original array.
         -----------------------------------------------------------------------------------------------*/
-        public List<int> FindElementGreaterAtleaseTwice(List<int> A)
+        public List<int> FindElementGreat
+            erAtleaseTwice(List<int> A)
         {
 
             if (A.Count <= 2 || A.Count > 100000)
