@@ -11,6 +11,7 @@ class Solution {
         
         
         
+        
         List<int> divsor= new List<int>();
         
         for(int i=0;i<A.Count;i++)
