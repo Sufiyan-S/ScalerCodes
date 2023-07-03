@@ -9,6 +9,7 @@ class Solution {
         
 
 
+
         
         
         List<int> divsor= new List<int>();
