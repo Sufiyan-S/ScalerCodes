@@ -12,6 +12,7 @@
 
 
 
+
 class Solution {
     public int DeleteOne(List<int> A) {
         int n = A.Count;
