@@ -4,9 +4,6 @@
 
 
 
-
-
-
 class Solution {
     public string solve(string A) {
         long a = long.Parse(A);
