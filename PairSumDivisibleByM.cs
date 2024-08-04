@@ -3,6 +3,7 @@
 
 
 
+
 class Solution {
     public int solve(List<int> A, int B) {
         int mod = 1000000007;
