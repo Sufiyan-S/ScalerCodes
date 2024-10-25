@@ -7,6 +7,7 @@
 
 
 
+
 class Solution {
     public List<int> solve(List<int> A) {
         List<int> divsor= new List<int>();
