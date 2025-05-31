@@ -4,6 +4,7 @@
 
 
 
+
 class Solution {
     public int solve(List<int> A) {
     
